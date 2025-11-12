@@ -93,10 +93,7 @@ body {
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  transition:
-    background 0.18s ease,
-    transform 0.12s ease,
-    color 0.18s ease;
+  transition: background 0.18s ease, transform 0.12s ease, color 0.18s ease;
   box-shadow: 0 4px 10px rgba(227, 166, 53, 0.08);
 }
 
